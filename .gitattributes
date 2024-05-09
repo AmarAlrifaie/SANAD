@@ -1,0 +1,6 @@
+*.resS filter=lfs diff=lfs merge=lfs -text
+UIEarthQuick_Data/level2 filter=lfs diff=lfs merge=lfs -text
+UIEarthQuick_Data/level1 filter=lfs diff=lfs merge=lfs -text
+UIEarthQuick_Data/level3 filter=lfs diff=lfs merge=lfs -text
+UIEarthQuick_Data/sharedassets1.assets.resS filter=lfs diff=lfs merge=lfs -text
+UIEarthQuick_Data/sharedassets0.assets.resS filter=lfs diff=lfs merge=lfs -text
